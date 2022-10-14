@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SherefAbolmagd
+- 👀 I’m interested in integrating software with hardware
+- 💞️ I’m looking to collaborate on open source repo
